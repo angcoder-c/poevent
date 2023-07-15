@@ -8,7 +8,7 @@ In this project I will use `MySQL` as a database administrator and it is recomme
 ## How to start?
 Clone the repository.
 ```
-$ git clone https://github.com/Angel-Gabriel-Chavez/poevent.git
+$ git clone https://github.com/angcoder-c/poevent.git
 ```
 Create the virtual environment, and activate it.
 ```
